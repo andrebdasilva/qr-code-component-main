@@ -20,10 +20,10 @@ Esta é uma solução para o [Desafio do componente de QR code no Frontend Mento
 
 ### Screenshot
 
-Desktop 1920px
+Desktop 1920px  
 ![](../screenshot/screenshot-desktop.png)
 
-Mobile 375px
+Mobile 375px  
 ![](../screenshot/screenshot-mobile.png)
 
 ## Meu Processo
