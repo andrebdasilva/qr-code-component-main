@@ -38,4 +38,4 @@ I reinforced the development of variables and media queries in CSS.
 - Frontend Mentor - [@andrebdasilva](https://www.frontendmentor.io/profile/andrebdasilva)
 
 ## Acknowledgments
-- Thank you all from Frontend Mentor
+- Thank you all from the Frontend Mentor
