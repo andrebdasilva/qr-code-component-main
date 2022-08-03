@@ -34,8 +34,8 @@ Mobile 375px
 - Layout responsivo
 
 ### O Que Aprendi
-Consegui colocar em prática o HTML semântico na estrutura dos componentes.
-Reforcei o desenvolvimento de variáveis e media queries em CSS.
+Consegui colocar em prática o HTML semântico na estrutura dos componentes.  
+Reforcei o desenvolvimento de variáveis e media queries em CSS.  
 
 ## Autor
 - Frontend Mentor - [@andrebdasilva](https://www.frontendmentor.io/profile/andrebdasilva)
