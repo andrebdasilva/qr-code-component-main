@@ -36,3 +36,9 @@ Mobile 375px
 ### O Que Aprendi
 I was able to put into practice the semantic HTML in the structure of the components.  
 I reinforced the development of variables and media queries in CSS.  
+
+## Autor
+- Frontend Mentor - [@andrebdasilva](https://www.frontendmentor.io/profile/andrebdasilva)
+
+## Agradecimentos
+- Muito obrigado a todos do Frontend Mentor
