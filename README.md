@@ -5,8 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links) 
+  - [Screenshot](#screenshot) 
 - [My process](#my-process)   
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -22,3 +21,11 @@ Desktop 1920px
 
 Mobile 375px
 ![](/screenshot/screenshot-mobile.png)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS variables
+- Responsive layout
