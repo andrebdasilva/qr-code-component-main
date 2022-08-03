@@ -17,3 +17,11 @@ Esta é uma solução para o [Desafio do componente de código QR no Frontend Me
 - [Agradecimentos](#agradecimentos)
 
 ## Visão Geral
+
+### Screenshot
+
+Desktop 1920px
+![](../screenshot/screenshot-desktop.png)
+
+Mobile 375px
+![](../screenshot/screenshot-mobile.png)
