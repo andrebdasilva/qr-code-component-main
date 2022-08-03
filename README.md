@@ -29,3 +29,7 @@ Mobile 375px
 - Semantic HTML5 markup
 - CSS variables
 - Responsive layout
+
+### What I learned
+I was able to put into practice the semantic HTML in the structure of the components.  
+I reinforced the development of variables and media queries in CSS.  
