@@ -25,3 +25,14 @@ Desktop 1920px
 
 Mobile 375px
 ![](../screenshot/screenshot-mobile.png)
+
+## Meu Processo
+
+### Construído Com
+- HTML5 semântico
+- Variáveis CSS
+- Layout responsivo
+
+### O Que Aprendi
+I was able to put into practice the semantic HTML in the structure of the components.  
+I reinforced the development of variables and media queries in CSS.  
