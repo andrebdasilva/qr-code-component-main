@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Desktop 1920px
 ![](/screenshot/screenshot-desktop.png)
 
-Mobile 375px
+Mobile 375px  
 ![](/screenshot/screenshot-mobile.png)
 
 ## My process
