@@ -16,3 +16,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+
+Desktop 1920px
+![](/screenshot/screenshot-desktop.png)
+
+Mobile 375px
+![](/screenshot/screenshot-mobile.png)
